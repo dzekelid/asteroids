@@ -4,7 +4,7 @@ url: asteroids.streamdata.gallery
 tag: Asteroids
 markdown: kramdown
 exclude: [".rvmrc", ".rbenv-version", "README.md", "Rakefile", "changelog.md", ".DS_Store"]
-github_user: streamdata-gallery-type
+github_user: streamdata-gallery-topics
 github_repo: asteroids
 github_branch: master
 collections:
